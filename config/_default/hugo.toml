@@ -1,0 +1,11 @@
+baseURL = "https://vcourrier.github.io/"
+theme = "congo"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

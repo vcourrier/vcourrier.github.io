@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Violaine Courrier"
+
+[params]
+  dateFormat = "January 2006"
+  description = "PhD student in applied mathematics — INRIA Lille & Withings"
+
+[params.author]
+  name = "Violaine Courrier"
+  image = "img/photo_violaine_courrier.jpg"
+  headline = "PhD Student in Applied Mathematics"
+  bio = "I am a CIFRE PhD student between [INRIA Lille](https://www.inria.fr/en/inria-centre-university-lille) and [Withings](https://www.withings.com/). My research focuses on clustering, time series, and variational approaches."
+  links = [
+    { email = "mailto:violaine.courrier@inria.fr" },
+    { google-scholar = "https://scholar.google.com/citations?user=8mJkpB8AAAAJ&hl=en" },
+    { github = "https://github.com/vcourrier/" },
+    { linkedin = "https://www.linkedin.com/in/violaine-courrier-853155161/" },
+  ]
