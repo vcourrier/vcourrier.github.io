@@ -30,19 +30,17 @@ Violaine Courrier, Christophe Biernacki, Cristian Preda, Benjamin Vittrant.
 
 ## Talks
 
-<h3 class="year-label">Upcoming</h3>
+<h3 class="year-label">2026</h3>
 
 <div class="talk-entry">
 
-**From Unsupervised to Guided Dynamic Clustering: a Variational Autoencoder Implementation.**
+**From Unsupervised to Switching Guided Clustering: A Variational Autoencoder Implementation.**
 
 Violaine Courrier, Christophe Biernacki.
 
-*International Federation of Classification Societies (IFCS)*, July 2026, Milan, Italy.
+*International Federation of Classification Societies (IFCS)*, July 2026, Milan, Italy. [[slides](/slides/IFCS2026_SGCVAE_Courrier.pdf)]
 
 </div>
-
-<h3 class="year-label">2026</h3>
 
 <div class="talk-entry">
 
