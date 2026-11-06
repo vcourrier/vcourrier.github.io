@@ -2,6 +2,7 @@ baseURL = "https://vcourrier.github.io/"
 theme = "congo"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
+enableGitInfo = true
 summaryLength = 0
 
 [pagination]

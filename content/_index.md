@@ -1,5 +1,6 @@
 ---
-title: "Home"
+title: "Violaine Courrier"
+description: "Violaine Courrier is a CIFRE PhD student at INRIA Lille and Withings, working on guided clustering, deep generative models, and multivariate time series from connected health devices."
 ---
 
 I am Violaine Courrier, a PhD student in the Datavers team at [INRIA Lille](https://www.inria.fr/en/datavers) working in an industrial partnership with the French company [Withings](https://www.withings.com/). Under the supervision of [Christophe Biernacki](https://scholar.google.com/citations?user=J1CxrbIAAAAJ&hl=fr) and [Cristian Preda](https://scholar.google.com/citations?user=hCy7I40AAAAJ&hl=fr), my research focuses on deep unsupervised learning, specifically addressing the challenge of identifying relevant clusters within complex data, such as connected health time series.

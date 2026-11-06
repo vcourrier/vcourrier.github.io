@@ -1,0 +1,35 @@
+{{/* Person schema — ties the site to the entity search engines already know
+     (Scholar / GitHub / LinkedIn profiles) via sameAs. Home page only. */}}
+{{ if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "{{ .Permalink }}#person",
+    "name": "Violaine Courrier",
+    "givenName": "Violaine",
+    "familyName": "Courrier",
+    "url": "{{ .Permalink }}",
+    {{ with resources.Get "img/photo_violaine_courrier.jpg" }}"image": "{{ .Permalink }}",{{ end }}
+    "jobTitle": "PhD Student in Applied Mathematics",
+    "affiliation": [
+      { "@type": "Organization", "name": "Inria Lille", "url": "https://www.inria.fr/en/inria-centre-university-lille" },
+      { "@type": "Organization", "name": "Withings", "url": "https://www.withings.com/" }
+    ],
+    "knowsAbout": [
+      "Clustering",
+      "Unsupervised learning",
+      "Deep generative models",
+      "Variational autoencoders",
+      "Multivariate time series",
+      "Statistical learning theory",
+      "Connected health data"
+    ],
+    "sameAs": [
+      "https://scholar.google.com/citations?user=8mJkpB8AAAAJ&hl=en",
+      "https://github.com/vcourrier",
+      "https://www.linkedin.com/in/violaine-courrier-853155161/"
+    ]
+  }
+  </script>
+{{ end }}

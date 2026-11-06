@@ -1,6 +1,7 @@
 ---
 title: "Research"
 layout: "simple"
+description: "Publications and talks by Violaine Courrier on guided clustering, the Guided Clustering Variational Autoencoder (GCVAE), and clustering of multivariate time series from connected medical devices."
 ---
 
 ## Publications
